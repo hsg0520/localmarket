@@ -6,6 +6,9 @@
 
 2. Web Server로부터 itemlist 파일을 읽어와 Application 이름 , 버전, Icon을 받아와서 화면에 뿌린다.
 
-<img width="400" src="https://user-images.githubusercontent.com/12454018/148692456-71e1f02f-64fc-48fa-acf8-6e976ec8d0b7.png">
+<img width="300" src="https://user-images.githubusercontent.com/12454018/148693012-2e85e67b-7600-48e1-ac68-064b8b5ea48c.png">
 
-3. Install 버튼을 클릭하여 apk파일을 다운로드 받은 후 Install을 진행한다 .
+3. Download 버튼을 클릭하여 apk파일을 다운로드 받은 후 Install을 진행한다 .
+
+<img width="300" src="https://user-images.githubusercontent.com/12454018/148693012-2e85e67b-7600-48e1-ac68-064b8b5ea48c.png">
+
