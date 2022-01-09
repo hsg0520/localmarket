@@ -33,7 +33,7 @@ apklist.json 내용
 }
 ```
 
-2. Web Server로부터 itemlist 파일을 읽어와 Application 이름 , 버전, Icon을 받아와서 화면에 뿌린다.
+2. Web Server로부터 apklist 파일을 읽어와 Application 이름 , 버전, Icon을 받아와서 화면에 뿌린다.
 
 <img width="300" src="https://user-images.githubusercontent.com/12454018/148693012-2e85e67b-7600-48e1-ac68-064b8b5ea48c.png">
 
