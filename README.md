@@ -2,7 +2,7 @@
 
 
 
-1. Web Server에 itemlist, apk파일, icon을 올린다.
+1. Web Server에 apklist.json, apk파일, icon을 올린다.
 
 2. Web Server로부터 itemlist 파일을 읽어와 Application 이름 , 버전, Icon을 받아와서 화면에 뿌린다.
 
