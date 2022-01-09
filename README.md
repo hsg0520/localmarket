@@ -10,5 +10,5 @@
 
 3. Download 버튼을 클릭하여 apk파일을 다운로드 받은 후 Install을 진행한다 .
 
-<img width="300" src="https://user-images.githubusercontent.com/12454018/148693012-2e85e67b-7600-48e1-ac68-064b8b5ea48c.png">
+<img width="300" src="https://user-images.githubusercontent.com/12454018/148693019-1f215f7f-1b40-4256-81f7-4851ae04608e.png">
 
