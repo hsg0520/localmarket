@@ -29,11 +29,11 @@ class MainActivity : AppCompatActivity() {
 
         registerReceiver()
 
-        setApkList()
     }
 
     override fun onResume() {
         super.onResume()
+        setApkList()
         viewBinding.txtProgress.text="설치할 앱을 선택하세요."
         viewBinding.progressBar.progress = 0
     }
